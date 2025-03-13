@@ -1,2 +1,2 @@
 # Parallel Puzzle
- 2D Unity Game
+[Play Here](https://franbowden.itch.io/parallelpuzzle)
